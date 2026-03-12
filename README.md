@@ -47,4 +47,4 @@ The project compares:
 - Region totals: **North 5,714 / Central 5,554 / South 4,888**
 - Gender totals: **Male 10,722 / Female 5,434**
 - The MFCC converted version for the CNN2D baseline model was uploaded to this repository
-- The raw-audio version is available on this Kaggle page: https://www.kaggle.com/datasets/lnt0821/vietnamese-accent-3-regions
+- The raw-audio version is available in this Google Drive folder: https://drive.google.com/drive/folders/1QDB05g4Zf1x9C7yYo1eygKfz6GcqBmFS?usp=sharing
