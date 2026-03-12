@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+       North     0.7806    0.8155    0.7977      1252
+     Central     0.6077    0.6722    0.6383       848
+       South     0.7890    0.6538    0.7150       852
+
+    accuracy                         0.7276      2952
+   macro avg     0.7257    0.7138    0.7170      2952
+weighted avg     0.7333    0.7276    0.7280      2952

@@ -1,0 +1,19 @@
+{
+  "model_name": "microsoft/wavlm-base-plus",
+  "target_sr": 16000,
+  "target_seconds": 3.0,
+  "train_size": 10064,
+  "val_size": 3140,
+  "test_size": 2952,
+  "region_metrics_test": {
+    "accuracy": 0.7276422764227642,
+    "macro_f1": 0.716991125932046,
+    "weighted_f1": 0.7280279899705109
+  },
+  "gender_metrics_test": {
+    "accuracy": 0.9590108401084011,
+    "macro_f1": 0.9543086372297008,
+    "weighted_f1": 0.9591846279655865
+  },
+  "best_joint_score_val": 0.8101369698352408
+}
