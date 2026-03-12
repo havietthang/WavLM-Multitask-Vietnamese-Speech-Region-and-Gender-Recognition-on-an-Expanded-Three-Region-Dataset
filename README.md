@@ -1,2 +1,2 @@
 # WavLM-Multitask-Vietnamese-Speech-Region-and-Gender-Recognition-on-an-Expanded-Three-Region-Dataset
-This repository and substantially revised version of the conference paper “Speech Region and Gender Recognition on a Vietnamese Accent Dataset,” presented at CSoNet 2025. The present journal manuscript includes a substantially expanded dataset, a revised raw-waveform preprocessing pipeline and a new WavLM-based multitask architecture
+This repository is a substantially revised version of the conference paper “Speech Region and Gender Recognition on a Vietnamese Accent Dataset,” presented at CSoNet 2025. The present journal manuscript includes a substantially expanded dataset, a revised raw-waveform preprocessing pipeline and a new WavLM-based multitask architecture
